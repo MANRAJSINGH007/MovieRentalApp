@@ -5,7 +5,6 @@ using System.Web;
 using System.Web.Mvc;
 using Vidly.Models;
 using Vidly.ViewModels;
-using Vidly.Views.Movies;
 
 namespace Vidly.Controllers
 {
